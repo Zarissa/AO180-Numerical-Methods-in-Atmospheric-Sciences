@@ -7,7 +7,7 @@ This repository includes a series of 7 numerical simulation projects as part of 
 
 What all this biscuit is about in English: 
 
-Many complex phenomena in nature can only be modeled by (partial) differential equations, which often do not have analytical solutions. Numerical methods are essentially a set of computational schemes that allow a computer to obtain a "good enough" (sometimes, the best possible) solution of a set of governing equations. From these projects, I learned several basic approaches (e.g. Successive-Over-Relaxation for solving the Poisson Equation) and discretization schemes (RK, AB families) in solving classical PDEs. The projects also shed light on several mathematical constraints(e.g.stability) and numerical artifacts (e.g.virtual advection) that are intrinsic in the specific numerical methods used. 
+Many complex phenomena in nature can only be modeled by (partial) differential equations, which often do not have analytical solutions. Numerical methods are essentially a set of computational schemes that allow a computer to obtain a "good enough" (sometimes, the best possible) solution of a set of governing equations. From these projects, I learned several basic algorithms (e.g. Successive-Over-Relaxation for solving the Poisson Equation), discretization schemes (e.g.RK,AB families) and techniques in solving classical PDEs. The projects also shed light on several mathematical constraints(e.g.stability) and numerical artifacts (e.g.virtual advection) that are intrinsic in the specific numerical methods used. 
 
 
 The final project: 
@@ -54,5 +54,8 @@ Final Project: A Numerical Simulation of the 2D Kelvin-Helmholtz Instability Pro
 The final project investigates the Kelvin-Helmholtz Instability Problem, a fluid phenomena that develops at the interface of two flows with a non-zero shear velocity. (English: Strange patterns that develop between 2 parallel flows travelling at different velocities) I also experimented with different number crunching setups (e.g. grid sizes, etc) 
 
 Best Setup: 2D Navier-Stokes Equation in Vorticity Streamfunction formulation. Implemented RK4, RK5 and AB3 integration schemes. 
+
+
+Props to 
 
 ------------------------------------------------------------------
