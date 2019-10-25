@@ -19,7 +19,7 @@ Specifications, codes, results, project reports and everything surviving the hur
 
 
 *************************************************************************************************************************
-                                                  Important Notes:
+                              **Important Notes**
 
 **If you are looking for a technical summary of what I did, please check out the individual project reports.**
 
