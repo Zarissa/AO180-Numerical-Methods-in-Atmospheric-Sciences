@@ -27,12 +27,19 @@ Note: The first few projects are hosted in Jupyter notebooks, where the results 
 
 ------------------------------------------------------------------
 Project 1:
+
 Project 2: Modeling the Solution of a simple one-dimension linera wave equation via Forward in Time Backward in Space scheme
+
 Project 3: Modeling the solution of a simple one-dimensional linear wave equation via Leap-Frog and 3rd order Runge-Kutta (RK3) scheme
+
 Project 4: Advection Diffusion Problem in 2D
+
 Project 5: 2D Poisson's Equation
+
 Project 6: Quasi-Geotrophic Barotropic Vorticity Equation
+
 Project 7: Rising Thermal 
+
 Final Project: A Numerical Simulation of the 2D Kelvin-Helmholtz Instability Problem 
 
 The final project investigates the Kelvin-Helmholtz Instability Problem, a fluid phenomena that develops at the interface of two flows with a non-zero shear velocity. (English: Strange patterns that develop between 2 parallel flows travelling at different velocities) I also experimented with different number crunching setups (e.g. grid sizes, etc) 
