@@ -32,4 +32,5 @@ Final Project: A Numerical Simulation of the 2D Kelvin-Helmholtz Instability Pro
 The final project investigates the Kelvin-Helmholtz Instability Problem, a fluid phenomena that develops at the interface of two flows with a non-zero shear velocity. (English: Strange patterns that develop between 2 parallel flows travelling at different velocities) I also experimented with different number crunching setups (e.g. grid sizes, etc) 
 
 Best Setup: 2D Navier-Stokes Equation in Vorticity Streamfunction formulation. Implemented RK4, RK5 and AB3 integration schemes. 
+
 ------------------------------------------------------------------
