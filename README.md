@@ -1,6 +1,6 @@
 # A&O-180-Numerical-Methods-in-Atmospheric-Sciences
 
-Adrian Ling-Ho Lam 
+Adrian Lam 
 
 This repository includes a series of 7 numerical simulation projects as part of the 10-week A&O 180 Course (aka Number-crunching in Hell) that I took in my first year at UCLA. 
 
@@ -19,8 +19,9 @@ Specifications, codes, results, project reports and everything surviving the hur
 
 
 *************************************************************************************************************************
-                              **Important Notes**
 
+**Important Notes**
+                        
 **If you are looking for a technical summary of what I did, please check out the individual project reports.**
 
 **If you would like to see some cool simulation pictures, see the last few projects (Project 5 - Final Project) and scroll down the Jupyter notebooks**
