@@ -9,16 +9,17 @@ Many complex phenomena in nature can only be modeled by (partial) differential e
 
 
 The final project: 
-The previous projects culminate in a final project of a 2D Navier-Stokes Atmosphere Model, written in the vorticity-streamfunction formation. 
+The previous projects culminate in a final project of a 2D Navier-Stokes Atmosphere Model, written in the vorticity-streamfunction formation. It is based on the Project 6 QG code. 
 
 
 What you will find: 
 Specifications, codes, results, project reports and everything surviving the hurricane that is A&O180 are all included in this repo in remembrance of my deceased neurones.  
 
 
-****************************************************************************************************************************
+*************************************************************************************************************************
 **If you are looking for a technical summary of what I did, please check out the individual project reports.**
 **If you are here for the cool pics, see the last few projects (Project 5 - Final Project)**
+**Use https://nbviewer.jupyter.org/ to view the jupyter notebooks if they aren't loading**
 ****************************************************************************************************************************
 
 
