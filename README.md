@@ -56,6 +56,6 @@ The final project investigates the Kelvin-Helmholtz Instability Problem, a fluid
 Best Setup: 2D Navier-Stokes Equation in Vorticity Streamfunction formulation. Implemented RK4, RK5 and AB3 integration schemes. 
 
 
-Props to Marcelo Chamecki for the great class
+Props to Marcelo Chamecki for the awesome class
 
 ------------------------------------------------------------------
