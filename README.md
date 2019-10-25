@@ -23,7 +23,7 @@ Specifications, codes, results, project reports and everything surviving the hur
 
 **If you are looking for a technical summary of what I did, please check out the individual project reports.**
 
-**If you are here for the cool pics, see the last few projects (Project 5 - Final Project)**
+**If you would like to see some cool simulation pictures, see the last few projects (Project 5 - Final Project) and scroll down the Jupyter notebooks**
 
 **Use https://nbviewer.jupyter.org/ to view the jupyter notebooks if they aren't loading**
 *************************************************************************************************************************
