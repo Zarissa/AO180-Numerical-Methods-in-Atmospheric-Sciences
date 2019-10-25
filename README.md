@@ -26,7 +26,7 @@ Note: The first few projects are hosted in Jupyter notebooks, where the results 
 
 
 ------------------------------------------------------------------
-Project 1: Euler Forward Simulation of an air packet under the Buoyancy Equation
+Project 1: Simulation of an air packet under the Buoyancy Equation (Integration Scheme: Euler Forward & Leap Frog :'))
 
 Project 2: Modeling the Solution of a simple one-dimension linera wave equation via Forward in Time Backward in Space scheme
 
