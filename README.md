@@ -7,7 +7,7 @@ This repository includes a series of 7 numerical simulation projects as part of 
 
 What all this biscuit is about in English: 
 
-Many complex phenomena in nature can only be modeled by (partial) differential equations, which often do not have analytical solutions. Numerical methods are essentially a set of computational schemes that allow a computer to obtain a "good enough" (sometimes, the best possible) solution of a set of governing equations. From these projects, I learned several basic approaches (e.g. Successive-Over-Relaxation for solving the Poisson Equation) and discretization schemes (RK, AB families) in solving classical PDEs. The projects also shed light on several numerical constraints(e.g. stability)/artifacts intrinsic to different numerical methods used. 
+Many complex phenomena in nature can only be modeled by (partial) differential equations, which often do not have analytical solutions. Numerical methods are essentially a set of computational schemes that allow a computer to obtain a "good enough" (sometimes, the best possible) solution of a set of governing equations. From these projects, I learned several basic approaches (e.g. Successive-Over-Relaxation for solving the Poisson Equation) and discretization schemes (RK, AB families) in solving classical PDEs. The projects also shed light on several mathematical constraints(e.g.stability) and numerical artifacts (e.g.virtual advection) that are intrinsic in the specific numerical methods used. 
 
 
 The final project: 
