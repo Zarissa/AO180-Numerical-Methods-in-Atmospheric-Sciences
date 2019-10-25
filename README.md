@@ -1,7 +1,5 @@
 # A&O-180-Numerical-Methods-in-Atmospheric-Sciences
 
-Adrian Lam 
-
 This repository includes a series of 7 numerical simulation projects as part of the 10-week A&O 180 Course (aka Number-crunching in Hell) that I took in my first year at UCLA. 
 
 
@@ -61,6 +59,7 @@ Best Setup: 2D Navier-Stokes Equation in Vorticity Streamfunction formulation. I
 
 
 Props to Marcelo Chamecki for the awesome class, and long live the leapfrog,
+
 ~A
 
 ------------------------------------------------------------------
