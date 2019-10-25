@@ -6,6 +6,7 @@ This repository includes a series of 7 numerical simulation projects as part of 
 
 
 What all this biscuit is about in English: 
+
 Many complex phenomena in nature can only be modeled by (partial) differential equations, which often do not have analytical solutions. Numerical methods are essentially a set of computational schemes that allow a computer to obtain a "good enough" (sometimes, the best possible) solution of a set of governing equations. From these projects, I learned several basic approaches (e.g. Successive over Relaxation) in solving classical PDEs (e.g. Poisson equation). Numerical artifacts are covered in depth in this course as well. 
 
 
