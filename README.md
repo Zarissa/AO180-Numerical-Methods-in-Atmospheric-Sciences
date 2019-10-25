@@ -60,6 +60,7 @@ Best Setup: 2D Navier-Stokes Equation in Vorticity Streamfunction formulation. I
 
 
 
-Props to Marcelo Chamecki for the awesome class
+Props to Marcelo Chamecki for the awesome class, and long live the leapfrog,
+~A
 
 ------------------------------------------------------------------
