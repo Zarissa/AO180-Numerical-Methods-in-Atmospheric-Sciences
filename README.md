@@ -14,7 +14,7 @@ What you will find:
 Specifications, codes, results, project reports and everything surviving the hurricane that is A&O180 are all included in this repo in remembrance of my deceased neurones.  
 
 ****************************************************************************************************************************
-*** If you are looking for a technical summary of what I did, please check out the individual project reports. If you are here for the cool pics, see the last few projects (Proj 5- Fin)***
+*** If you are looking for a technical summary of what I did, please check out the individual project reports. If you are here for the cool pics, see the last few projects (Proj 5- Final Project)***
 ****************************************************************************************************************************
 
 Note: The first few projects are hosted in Jupyter notebooks, where the results are plotted inline. For the last few projects, only the codes and some images/animations are attached due to the prohibitive computing time (>5 hrs). 
