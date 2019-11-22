@@ -7,11 +7,11 @@ This repository includes a series of 7 numerical simulation projects as part of 
 
 **Important Notes:**
                         
-**If you are looking for a technical summary of what I did, please check out the individual project reports.**
+**For a technical summary of what I did, please check out the individual project reports.**
 
-**If you would like to see some cool simulation pictures, see the last few projects (Project 5 till Final Project) and scroll down the Jupyter notebooks**
+**For cool simulation pictures, see the last few projects (Project 5 till Final Project) and scroll down the Jupyter notebooks**
 
-**Use https://nbviewer.jupyter.org/ to view the jupyter notebooks if they aren't loading**
+**Use https://nbviewer.jupyter.org/ to view the jupyter notebooks if you have issues displaying them**
 *************************************************************************************************************************
 
 
