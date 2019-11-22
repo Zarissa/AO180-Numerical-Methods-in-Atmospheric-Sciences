@@ -3,6 +3,18 @@
 This repository includes a series of 7 numerical simulation projects as part of the 10-week A&O 180 Course (aka Number-crunching in Hell) that I took in my first year at UCLA. 
 
 
+*************************************************************************************************************************
+
+**Important Notes:**
+                        
+**If you are looking for a technical summary of what I did, please check out the individual project reports.**
+
+**If you would like to see some cool simulation pictures, see the last few projects (Project 5 till Final Project) and scroll down the Jupyter notebooks**
+
+**Use https://nbviewer.jupyter.org/ to view the jupyter notebooks if they aren't loading**
+*************************************************************************************************************************
+
+
 What all this biscuit is about in English: 
 
 Many complex phenomena in nature can only be modeled by (partial) differential equations, which often do not have analytical solutions. Numerical methods are essentially a set of computational schemes that allow a computer to obtain a "good enough" (sometimes, the best possible) solution of a set of governing equations. From these projects, I learned several basic algorithms (e.g. Successive-Over-Relaxation for solving the Poisson Equation), discretization schemes (e.g.RK,AB families) and techniques in solving classical PDEs. The projects also shed light on several mathematical constraints(e.g.stability) and numerical artifacts (e.g.virtual advection) that are intrinsic in the specific numerical methods used. 
@@ -14,19 +26,7 @@ The previous projects culminate in a final project of a 2D Navier-Stokes Atmosph
 *************************************************************************************************************************
 
 What you will find: 
-Specifications, codes, results, project reports and everything surviving the hurricane that is A&O180 are all included in this repo in remembrance of my deceased neurones.  
-
-
-*************************************************************************************************************************
-
-**Important Notes:**
-                        
-**If you are looking for a technical summary of what I did, please check out the individual project reports.**
-
-**If you would like to see some cool simulation pictures, see the last few projects (Project 5 - Final Project) and scroll down the Jupyter notebooks**
-
-**Use https://nbviewer.jupyter.org/ to view the jupyter notebooks if they aren't loading**
-*************************************************************************************************************************
+Specifications, codes, results, project reports and everything surviving the hurricane that is A&O180 are all included in this repo in remembrance of my deceased brain cells.  
 
 
 Note: The first few projects are hosted in Jupyter notebooks, where the results are plotted inline. For the last few projects, only the codes and some images/animations are attached due to the prohibitive computing time (>5 hrs). 
@@ -49,17 +49,12 @@ Project 7: Rising Thermal
 
 Final Project: A Numerical Simulation of the 2D Kelvin-Helmholtz Instability Problem 
 
-The final project investigates the Kelvin-Helmholtz Instability Problem, a fluid phenomena that develops at the interface of two flows with a non-zero shear velocity. (English: Strange patterns that develop between 2 parallel flows travelling at different velocities) I also experimented with different number crunching setups (e.g. grid sizes, etc) 
+The final project investigates the Kelvin-Helmholtz Instability Problem, a flow instability that develops at the interface of two flows with a shear velocity. (Strange patterns that develop between 2 parallel flows travelling at different speeds) I also experimented with different number crunching setups (e.g. grid sizes, etc) 
 
 Best Setup: 2D Navier-Stokes Equation in Vorticity Streamfunction formulation. Implemented RK4, RK5 and AB3 integration schemes. 
 
 
-
-
-
-
-Props to Marcelo Chamecki for the awesome class, and long live the leapfrog,
-
-~A
+Props to Prof. Marcelo Chamecki for the awesome class, and long live the leapfrog,
+-AL
 
 ------------------------------------------------------------------
