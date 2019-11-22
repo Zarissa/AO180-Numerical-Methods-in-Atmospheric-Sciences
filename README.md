@@ -1,6 +1,6 @@
 # A&O-180-Numerical-Methods-in-Atmospheric-Sciences
 
-This repository includes a series of 7 numerical simulation projects as part of the 10-week A&O 180 Course (aka Number-crunching in Hell) that I took in my first year at UCLA. 
+This repository includes a series of 7 numerical simulation projects as part of the 10-week A&O 180 Course that I took in my first year at UCLA. 
 
 
 *************************************************************************************************************************
