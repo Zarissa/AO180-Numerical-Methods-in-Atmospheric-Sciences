@@ -17,7 +17,7 @@ Specifications, codes, results, project reports and everything surviving the hur
 *************************************************************************************************************************
 
 
-What all this biscuit is about in English: 
+What all this biscuit is about: 
 
 Many complex phenomena in nature can only be modeled by (partial) differential equations, which often do not have analytical solutions. Numerical methods are essentially a set of computational schemes that allow a computer to obtain a "good enough" (sometimes, the best possible) solution of a set of governing equations. From these projects, several numerical algorithms (e.g. Successive-Over-Relaxation for solving the Poisson Equation) and numerical schemes (e.g.RK,AB families) for solving PDEs. 
 
@@ -56,6 +56,5 @@ The final project investigates the Kelvin-Helmholtz Instability Problem, a flow 
 
 Best Setup: 2D Navier-Stokes Equation in Vorticity Streamfunction formulation. Implemented RK4, RK5 and AB3 integration schemes. 
 
-"Numerical methods is more of an art than a science"
 
 ------------------------------------------------------------------
