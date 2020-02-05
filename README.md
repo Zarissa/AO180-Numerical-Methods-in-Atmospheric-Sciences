@@ -3,7 +3,7 @@
 This repository includes a series of 7 numerical simulation projects as part of the A&O 180 Course that I took in my first year at UCLA. 
 
 What you will find: 
-Specifications, codes, results, project reports and everything surviving the hurricane that is A&O180 are all included in this repo in remembrance of my deceased brain cells.  
+Specifications, codes, results, project reports and everything surviving the hurricane that is A&O180 are all included in this repo.
 
 *************************************************************************************************************************
 
@@ -17,7 +17,7 @@ Specifications, codes, results, project reports and everything surviving the hur
 *************************************************************************************************************************
 
 
-What all this biscuit is about: 
+What this is all about in non-technical language: 
 
 Many complex phenomena in nature can only be modeled by (partial) differential equations, which often do not have analytical solutions. Numerical methods are essentially a set of computational schemes that allow a computer to obtain a "good enough" (sometimes, the best possible) solution of a set of governing equations. From these projects, several numerical algorithms (e.g. Successive-Over-Relaxation for solving the Poisson Equation) and numerical schemes (e.g.RK,AB families) for solving PDEs. 
 
