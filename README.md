@@ -17,7 +17,7 @@ Specifications, codes, results, project reports and everything surviving the hur
 *************************************************************************************************************************
 
 
-What this is all about in non-technical language: 
+What this is all about in non-technical speak: 
 
 Many complex phenomena in nature can only be modeled by (partial) differential equations, which often do not have analytical solutions. Numerical methods are essentially a set of computational schemes that allow a computer to obtain a "good enough" (sometimes, the best possible) solution of a set of governing equations. From these projects, several numerical algorithms (e.g. Successive-Over-Relaxation for solving the Poisson Equation) and numerical schemes (e.g.RK,AB families) for solving PDEs. 
 
